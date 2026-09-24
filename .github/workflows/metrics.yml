@@ -20,6 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
+          config_theme: dark_high_contrast
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_habits: yes
