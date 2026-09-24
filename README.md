@@ -22,11 +22,11 @@
 <a href="https://www.linkedin.com/in/navdeepravindran"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:navdeep@auxacode.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://auxacode.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/navdeep-ravindran"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/NavdeepRavindran"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=navdeep-ravindran&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=NavdeepRavindran&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -86,13 +86,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navdeep-ravindran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C4B5FD" width="49%" />
-<img src="https://streak-stats.demolab.com?user=navdeep-ravindran&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C4B5FD" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NavdeepRavindran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C4B5FD" width="49%" />
+<img src="https://streak-stats.demolab.com?user=NavdeepRavindran&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C4B5FD" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeep-ravindran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C4B5FD" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=navdeep-ravindran&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavdeepRavindran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C4B5FD" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=NavdeepRavindran&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navdeep-ravindran&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&area_color=5B21B6" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NavdeepRavindran&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&area_color=5B21B6" width="98%" />
 
 </div>
 
@@ -102,23 +102,23 @@
 
 **Contribution Snake**
 <br/>
-<img src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/NavdeepRavindran/NavdeepRavindran/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 <br/><br/>
 
 **Pac-Man Contribution Graph**
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph.svg" width="98%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavdeepRavindran/NavdeepRavindran/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavdeepRavindran/NavdeepRavindran/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NavdeepRavindran/NavdeepRavindran/output/pacman-contribution-graph.svg" width="98%">
 </picture>
 
 <br/><br/>
 
 **3D Contribution Calendar**
 <br/>
-<img src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/NavdeepRavindran/NavdeepRavindran/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
 
 </div>
 
@@ -203,7 +203,7 @@ Every project starts with scoping the real problem, then a deliberate architectu
 <a href="https://www.linkedin.com/in/navdeepravindran"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:navdeep@auxacode.com"><img src="https://img.shields.io/badge/Say_Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://auxacode.com"><img src="https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/navdeep-ravindran"><img src="https://img.shields.io/badge/Explore_GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/NavdeepRavindran"><img src="https://img.shields.io/badge/Explore_GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -223,7 +223,7 @@ Every project starts with scoping the real problem, then a deliberate architectu
 ### Repository structure
 
 ```
-navdeep-ravindran/                 ← repo name must match your username exactly
+NavdeepRavindran/                 ← repo name must match your username exactly
 ├── README.md
 └── .github/
     └── workflows/
@@ -234,7 +234,7 @@ navdeep-ravindran/                 ← repo name must match your username exactl
 ```
 
 ### 1. Create the special repo
-Create a public GitHub repo named **exactly** `navdeep-ravindran` (same as your username). GitHub automatically shows its `README.md` on your profile page.
+Create a public GitHub repo named **exactly** `NavdeepRavindran` (same as your username). GitHub automatically shows its `README.md` on your profile page.
 
 ### 2. Enable write permissions
 **Settings → Actions → General → Workflow permissions → Read and write permissions → Save.**
