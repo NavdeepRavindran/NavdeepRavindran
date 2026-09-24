@@ -1,10 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5B21B6,100:7C3AED&height=280&section=header&text=NAVDEEP%20RAVINDRAN&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Founder%20%C2%B7%20CEO%20%C2%B7%20Product%20Engineer%20%C2%B7%20Builder&descAlignY=52&descSize=17&descColor=C4B5FD" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B21B6,100:7C3AED&height=4&width=1000" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Founder+%40+Auxacode+Technologies;Building+SaaS+%C2%B7+ERP+%C2%B7+AI-Powered+Software;From+College+Lab+to+Company+Roadmap;Currently%3A+Shipping.+Always." alt="Typing SVG" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1A1B27&height=200&section=header&text=Navdeep%20Ravindran&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Product+Engineer;Building+Production+SaaS+%26+ERP+Systems;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;Founder%2C+Auxacode+Technologies" alt="Typing SVG" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,tailwind,docker,git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN_TO-PRODUCT_%2F_FOUNDING_ENGINEER-7C3AED?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-SYSTEM_DESIGN-5B21B6?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/navdeepravindran"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="mailto:navdeep@auxacode.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
@@ -14,123 +27,24 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=navdeep-ravindran&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-5B21B6?style=for-the-badge&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO-FOUNDING_ENGINEER-7C3AED?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  AUXACODE_OS  v2.0                                    [ ONLINE ]  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  > booting founder_mode.exe ..................... OK              ║
-║  > mounting /skills/fullstack .................... OK              ║
-║  > loading engineering_philosophy.dll ............ OK              ║
-║  > initializing auxacode_technologies ............ RUNNING ▓▓▓▓▓░  ║
-║  > connecting to opportunities.stream ............ LISTENING       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
 <br/>
 
-## 🛰️ Mission Control
-
-```yml
-identity:
-  name: Navdeep Ravindran
-  role: Founder & CEO — Auxacode Technologies Pvt. Ltd.
-  education: Final Year B.E. — Electronics & Communication Engineering
-  mission: >
-    Build Auxacode into a category-defining software company,
-    while becoming a world-class Founding / Product Engineer
-    who ships product, not just code.
-  operating_principle: "Design like a founder. Build like an engineer. Ship like both matter."
-  current_status: 🟣 ONLINE — building, shipping, closing the gap between idea and product.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5B21B6&height=2&width=1000" />
-
-## 🧠 Developer Dashboard
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀&nbsp; Currently Building</h3>
-      <p><b>Auxacode Business Platform</b> — a unified SaaS suite fusing ERP, automation &amp; AI-powered tooling into one operating layer for growing businesses.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡&nbsp; Currently Learning</h3>
-      <p>Large-scale system design, AI agent orchestration, and the discipline of turning founder chaos into engineering leverage.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤝&nbsp; Collaboration</h3>
-      <p>Open to building alongside founders &amp; engineers on <b>SaaS, ERP, automation</b> and <b>AI-native products</b> that solve real problems.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬&nbsp; Ask Me About</h3>
-      <p>Full-stack architecture, MVP → product journeys, startup trade-offs, and building a software company from zero while still in college.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡&nbsp; Fun Fact</h3>
-      <p>My terminal and my inbox are open at the same time, 365 days a year — I've never found a clean way to close either.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱&nbsp; Founder Journey</h3>
-      <p>Started as a student writing code out of curiosity → now building <b>Auxacode Technologies</b> while finishing engineering, one shipped feature at a time.</p>
-    </td>
-  </tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
 
-## 🧬 Digital Blueprint
+## Engineering Snapshot
 
-```ts
-const navdeep = {
-  role: "Founder & CEO @ Auxacode Technologies",
-  pursuing: "B.E. Electronics & Communication Engineering (Final Year)",
-
-  focus: [
-    "Full-Stack Product Development",
-    "SaaS & ERP Systems",
-    "Business Automation",
-    "AI-Powered Software",
-  ] as const,
-
-  stack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "C# (.NET)"],
-    database: ["MongoDB", "Supabase"],
-    devops: ["Docker", "Git", "GitHub", "Vercel"],
-    design: ["Figma", "Photoshop"],
-  },
-
-  currentMission: "Scale Auxacode while becoming a Founding / Product Engineer",
-  philosophy: "Ship fast. Design with intent. Never stop compounding.",
-
-  openTo: ["founding engineer roles", "product engineering", "startup collaborations"],
-
-  status: () => "building 🟣" as const,
-} as const;
-```
+- 🏗️ &nbsp;Building **production SaaS & ERP systems** used by real businesses, end to end
+- ⚙️ &nbsp;Shipping full-stack products — architecture, backend, UI, and deployment
+- 📚 &nbsp;Deepening **system design** and distributed systems fundamentals
+- 🎯 &nbsp;Open to **Product Engineer** / **Founding Engineer** roles
+- 🚀 &nbsp;Founder of **Auxacode Technologies**, building alongside product engineering work
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5B21B6&height=2&width=1000" />
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -166,53 +80,9 @@ const navdeep = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
 
-## 🏗️ Currently Shipping — Featured Projects
+## GitHub Intelligence
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏃&nbsp; ATHLETIX360</h3>
-      <img src="https://img.shields.io/badge/status-in_development-7C3AED?style=flat-square&labelColor=0D1117" />
-      <p>An athlete-performance and sports-management platform built to track, analyze and elevate performance data end-to-end.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡&nbsp; ITECH POWER ERP</h3>
-      <img src="https://img.shields.io/badge/status-deployed-5B21B6?style=flat-square&labelColor=0D1117" />
-      <p>A custom ERP system streamlining inventory, operations and business workflows for the power &amp; electrical industry.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩&nbsp; Auxacode Business Platform</h3>
-      <img src="https://img.shields.io/badge/status-flagship_product-7C3AED?style=flat-square&labelColor=0D1117" />
-      <p>A unified SaaS suite combining ERP, automation and AI-driven tooling — the flagship product of Auxacode Technologies.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖&nbsp; Smart Hospital Medicine Delivery Robot</h3>
-      <img src="https://img.shields.io/badge/status-engineering_project-5B21B6?style=flat-square&labelColor=0D1117" />
-      <p>An automation project delivering medicine within hospitals — reducing staff load and improving response time via embedded logic.</p>
-      <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Embedded%20Systems-7C3AED?style=flat-square&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Automation-5B21B6?style=flat-square&labelColor=0D1117" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5B21B6&height=2&width=1000" />
-
-## 📊 System Status — GitHub Analytics
+### Analytics
 
 <div align="center">
 
@@ -226,45 +96,107 @@ const navdeep = {
 
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Visuals
 
 <div align="center">
+
+**Contribution Snake**
+<br/>
 <img src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/github-contribution-grid-snake-dark.svg" width="98%" />
+
+<br/><br/>
+
+**Pac-Man Contribution Graph**
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/output/pacman-contribution-graph.svg" width="98%">
+</picture>
+
+<br/><br/>
+
+**3D Contribution Calendar**
+<br/>
+<img src="https://raw.githubusercontent.com/navdeep-ravindran/navdeep-ravindran/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" />
+
 </div>
 
-> ℹ️ The snake animation renders once the included GitHub Action (`snake.yml`) runs on your profile repo — see **Setup Notes** below.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
-
-## 🗺️ Build → Ship → Scale — The Roadmap
-
-```
- ○──────────────○──────────────○──────────────○
- STUDENT         FOUNDER         PRODUCT BUILDER   FUTURE AI ENGINEER
- ECE @ college    Auxacode Inc.   ERP · SaaS live   AI-native product
- Learning core    founded, CEO    real clients &     engineering,
- fundamentals     role begins     production code    scaling Auxacode
- ▓▓▓▓▓▓▓▓▓▓ 100%  ▓▓▓▓▓▓▓▓▓▓ 100% ▓▓▓▓▓▓▓▓░░ 80%    ▓▓▓░░░░░░░ 30%
-   2022             2024              2025              2026 →
-```
+> ℹ️ These three visuals render once their GitHub Actions run on your profile repo — full setup below in **Setup Notes**. Until then, GitHub will simply show nothing broken; each image degrades gracefully.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5B21B6&height=2&width=1000" />
 
-## 🧭 Engineering Philosophy
+## Project Showcase
 
-<div align="center">
+### 🏃 ATHLETIX360
+<img src="https://img.shields.io/badge/status-in_development-7C3AED?style=flat-square&labelColor=0D1117" />
 
-> *"Code is a means, not the mission. I build software that solves real problems,*
-> *ship fast without breaking trust, and design every layer — from database to UI —*
-> *like it's going to be judged by someone who matters."*
->
-> **— Navdeep Ravindran**
+An athlete-performance and sports-management platform for tracking, analyzing and improving performance data end-to-end.
 
-</div>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+<br/>
+
+### ⚡ ITECH POWER ERP
+<img src="https://img.shields.io/badge/status-deployed-5B21B6?style=flat-square&labelColor=0D1117" />
+
+A custom ERP system streamlining inventory, operations and business workflows for the power & electrical industry.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+
+<br/>
+
+### 🧩 Auxacode Business Platform
+<img src="https://img.shields.io/badge/status-flagship_product-7C3AED?style=flat-square&labelColor=0D1117" />
+
+A unified SaaS suite combining ERP, automation and AI-driven tooling — the flagship product of Auxacode Technologies.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+<br/>
+
+### 🤖 Smart Hospital Medicine Delivery Robot
+<img src="https://img.shields.io/badge/status-engineering_project-5B21B6?style=flat-square&labelColor=0D1117" />
+
+An automation project delivering medicine within hospitals — reducing staff load and improving response time through embedded logic.
+
+<img src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Automation-5B21B6?style=flat-square&labelColor=0D1117" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
 
-## 📡 Let's Connect
+## Build Pipeline
+
+```
+  Idea  →  Architecture  →  Build  →  Ship  →  Iterate
+   ○            ○             ●        ○         ○
+```
+
+Every project starts with scoping the real problem, then a deliberate architecture pass before a single line of UI is written — the same discipline whether it's a client ERP or an internal Auxacode tool.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5B21B6&height=2&width=1000" />
+
+## Roadmap
+
+```
+ Student  ───────▶  Product Builder  ───────▶  Founding Engineer  ───────▶  AI Engineer
+ ECE @ college       ERP & SaaS shipped         Product Engineer /          AI-native product
+ core fundamentals   to real clients            Founding Engineer role      engineering at scale
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=1000" />
+
+## Let's Connect
 
 <div align="center">
 
@@ -279,15 +211,45 @@ const navdeep = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5B21B6,100:7C3AED&height=160&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:5B21B6&height=4&width=1000" />
 
-<div align="center">
+<br/>
+
+<details>
+<summary><b>⚙️ Setup Notes — click to expand (for you, not recruiters)</b></summary>
+
+<br/>
+
+### Repository structure
 
 ```
-$ auxacode --status
-> running ▓▓▓▓▓▓▓▓▓▓ founder_mode: active
+navdeep-ravindran/                 ← repo name must match your username exactly
+├── README.md
+└── .github/
+    └── workflows/
+        ├── snake.yml              ← contribution snake
+        ├── pacman.yml             ← Pac-Man contribution graph
+        ├── profile-3d.yml         ← 3D contribution calendar
+        └── metrics.yml            ← optional full metrics dashboard
 ```
 
-<sub>⚡ Designed &amp; engineered by Navdeep Ravindran — Founder, Auxacode Technologies</sub>
+### 1. Create the special repo
+Create a public GitHub repo named **exactly** `navdeep-ravindran` (same as your username). GitHub automatically shows its `README.md` on your profile page.
 
-</div>
+### 2. Enable write permissions
+**Settings → Actions → General → Workflow permissions → Read and write permissions → Save.**
+All four workflows below need this to push generated SVGs.
+
+### 3. Add the workflow files
+Copy `snake.yml`, `pacman.yml`, `profile-3d.yml` and (optionally) `metrics.yml` into `.github/workflows/` in your repo.
+
+### 4. Run each workflow once manually
+**Actions tab → select the workflow → Run workflow.** After the first run, each one keeps itself updated on its own schedule (daily / hourly).
+
+### 5. Metrics dashboard (optional)
+`metrics.yml` needs a **Personal Access Token** (not the default `GITHUB_TOKEN`) with `read:user` scope, saved as a repo secret named `METRICS_TOKEN`, because it reads data the default token can't access. Skip this workflow entirely if you don't want the extra dashboard — nothing else in the README depends on it.
+
+### 6. WakaTime (optional, not included)
+If you start tracking coding time with WakaTime, its GitHub Action can append a "Coding Activity" section the same way — ask any time and it'll slot in without touching the rest of the README.
+
+</details>
